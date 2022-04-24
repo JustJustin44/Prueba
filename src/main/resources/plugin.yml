@@ -1,0 +1,6 @@
+name: Prueba
+version: '${project.version}'
+main: dev.mruniverse.prueba.Prueba
+api-version: 1.16
+authors: [ JustJustin ]
+description: este es un plugin de prueba
