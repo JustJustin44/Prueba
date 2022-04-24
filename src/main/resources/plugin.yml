@@ -1,6 +1,8 @@
 name: Prueba
 version: '${project.version}'
-main: dev.mruniverse.prueba.Prueba
+main: dev.mruniverse.oragenstaffchat.OrangeStaffChat
 api-version: 1.16
 authors: [ JustJustin ]
-description: este es un plugin de prueba
+description: Este es un plugin de staff chat
+depend:
+  - PlaceholderAPI
